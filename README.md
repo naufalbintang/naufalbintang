@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Naufal Bintang Pradana Himawan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👋 I’m Naufal Bintang Pradana Himawan
+- 👀 I’m very interested in programming
+- 🌱 Currently learning python
 
 <!---
 naufalbintang/naufalbintang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
