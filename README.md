@@ -8,7 +8,7 @@ I enjoy learning new programming skills, building projects, and experimenting wi
 ## 👨‍💻 About Me
 
 - 🔭 Currently learning **Laravel** and exploring backend concepts.
-- 💻 Passionate about web development, MVC architecture, and practical coding. :contentReference  
+- 💻 Passionate about web development, MVC architecture, and practical coding
 - 🌱 Always improving on languages like **HTML, CSS, JavaScript, PHP, Python, C++, Java**.  
 - 📫 You can reach me on:
   - **Instagram:** [_naufalbintang_](https://www.instagram.com/_naufalbintang_)  
@@ -19,7 +19,7 @@ I enjoy learning new programming skills, building projects, and experimenting wi
 
 Here are some of the languages and tools I work with:
 
-- **Frontend:** HTML, CSS, JavaScript :contentReference  
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend / Full-Stack:** PHP, Laravel, Node.js  
 - **Programming Languages:** Python, Java, C++   
 - **Frameworks & Libraries:** Tailwind CSS, MVC patterns
